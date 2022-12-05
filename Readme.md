@@ -1,0 +1,1 @@
+Projeto desenvolvido para treinar html e css básico sem flexbox
